@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vrncnn / Veronica Ann
 - 👀 I’m interested in reading classics and watching anime.
-- 🌱 I’m currently learning Java, JavaScript, and Python.
-- 💞️ I’m looking to collaborate on a professional field in the future :>
+- 💻 The programming languages / databases that I know are Java, HTML/CSS, C# and SQL.
+- 🌱 I’m currently learning JavaScript, Python and PHP.
+- 💞️ I’m looking to collaborate on various projects within the field of Business Analytics.
 - 📫 How to reach me vrncnndly@gmail.com
 
 <!---
