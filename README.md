@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vrncnn
+- 👋 Hi, I’m @vrncnn / Veronica Ann
 - 👀 I’m interested in reading classics and watching anime.
 - 🌱 I’m currently learning Java, JavaScript, and Python.
 - 💞️ I’m looking to collaborate on a professional field in the future :>
